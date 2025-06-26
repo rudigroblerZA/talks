@@ -1,6 +1,6 @@
 # Rudi Grobler
 
-![Rudi Grobler](../assets/headshots/headshot_5.jpg)
+<img src="../assets/headshots/headshot_5.jpg" class="img-thumbnail" height="140" role="img" width="140" />
 
 ---
 
@@ -10,4 +10,4 @@ He has previously been recognized as a Microsoft MVP for his expertise in XAML-b
 
 ---
 
-- [X](https://x.com/rudigrobler)
+- [@rudigrobler](https://x.com/rudigrobler)
