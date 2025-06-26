@@ -1,8 +1,12 @@
 # BSides
 
+![bsides_header](../../assets/images/bsides_header.png)
+
 **BSides** is a community-driven events where professionals share ideas, research, and experiences. Each event reflects its local cybersecurity scene, offering talks, workshops, and networking for both experts and newcomers.
 
 ## **[2024](2024)** - From Overheating to Overachieving: A Comedic Tale of Hacking My Car
+
+- 20th Jul 2024, Johannesburg
 
 ![bsides_2024.jpeg](../../assets/images/bsides_2024.jpeg)
 
