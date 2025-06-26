@@ -1,30 +1,30 @@
-# TechEd Africa
+## Microsoft TechEd Africa
 
-**Tech·Ed Africa** was one of the largest annual technology conferences on the continent, held at the **Durban ICC**, South Africa. The event brought together thousands of IT professionals, developers, and technology leaders to explore Microsoft’s latest platforms and solutions, including **Windows, SharePoint, SQL Server, Azure, Office, WPF, Silverlight, and Windows Phone**.
+**Tech-ed** Africa was one of the largest technology conferences on the continent, hosted annually by Microsoft. It brought together thousands of IT professionals to explore the latest tools, platforms, and innovations.
 
-These editions featured deep-dive technical sessions, hands-on labs, certification opportunities, and keynote addresses by local and international Microsoft experts. **Tech·Ed Africa** during this period was especially notable for supporting cloud adoption, mobility, rich client development, and emerging enterprise technologies across Africa’s growing IT ecosystem.
+### Using the MVVM Design Pattern with the Microsoft Visual Studio 2010 XAML Designer
+- 18 Oct 2010 - Durban
 
-## 2010
+### Powering Rich Internet Applications: Windows Server AppFabric, Web Services, and Microsoft Silverlight
+- 19 Oct 2010 - Durban
 
-- **Date**: 17-20 Oct 2010
+### Securing Microsoft Silverlight
+- 19 Oct 2010 - Durban
 
-### DTL323 - Using the MVVM Design Pattern with the Microsoft Visual Studio 2010 XAML Designer
+### Best Practices: Building a Real-World Microsoft Silverlight Line-Of-Business Application
+- 20 Oct 2010 - Durban
 
-- **Date**: 18 Oct 2010
+### Hack Proofing your Microsoft ASP.NET Web Forms and MVC Applications
+- 17 Oct 2011 - Durban
 
-### WTB312 - Powering Rich Internet Applications: Windows Server AppFabric, Web Services, and Microsoft Silverlight
+### Mango MUST HAVE developer features
+- 18 Oct 2011 - Durban
 
-- **Date**: 19 Oct 2010
+### Effective Validation Techniques with MVVM in Silverlight
+- 18 Oct 2011 - Durban
 
-### WUX310 - Securing Microsoft Silverlight
-
-- **Date**: 19 Oct 2010
-
-### WUX407 - Best Practices: Building a Real-World Microsoft Silverlight Line-of-Business Application
-
-- **Date**: 20 Oct 2010
-	
-## 2013
+### Expert Lessons: Top Tips for Building a Successful Windows Phone Application
+- 19 Oct 2011 - Durban
 
 ### Windows Phone 8: XAML Application Development
-
+- 16-19 April 2013 - Durban
