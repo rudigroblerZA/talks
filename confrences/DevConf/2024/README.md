@@ -78,3 +78,5 @@ This light-hearted and technical talk chronicles how a simple overheating issue 
 
 ## Closing Quote
 > “The harder I practice, the luckier I got.” — Gary Player  
+
+[Slides](slides.pdf)

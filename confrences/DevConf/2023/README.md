@@ -63,3 +63,5 @@ This talk offers an accessible yet comprehensive exploration of ChatGPT and mode
 - **Stripe** — fraud prevention & UX streamlining  
 - **Morgan Stanley** — knowledge base management  
 - **Duolingo** — enriched conversational learning  
+
+[Slides](slides.pdf)
