@@ -38,5 +38,7 @@ This session offers comprehensive best practices for developing robust, maintain
 ### Expert Lessons: Top Tips for Building a Successful Windows Phone Application
 - 19 Oct 2011 - Durban
 
-### Windows Phone 8: XAML Application Development
+### [2013](2013) - Windows Phone 8: XAML Application Development
 - 16-19 April 2013 - Durban
+
+This presentation, delivered by **Rudi Grobler** at **Microsoft TechEd Africa 2013**, provides a comprehensive guide to **XAML-based application development** for **Windows Phone 8**. The session covers the fundamentals of XAML, new features in Windows Phone 8, project infrastructure, key controls (e.g., `LongListSelector`, `Maps`), and performance optimizations. It also addresses compatibility with **Windows Phone 7** and highlights modern development practices like **async/await** and **Portable Class Libraries (PCL)**. Live demonstrations illustrate practical implementations, while the talk concludes with resources for further learning and community engagement.  
