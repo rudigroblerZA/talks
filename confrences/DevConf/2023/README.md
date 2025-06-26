@@ -2,6 +2,8 @@
 ## ChatGPT in Action  
 **Speaker:** @rudigrobler  
 
+[![DevConf 2023](https://img.youtube.com/vi/4DjsQXYyHNs/0.jpg)](https://www.youtube.com/watch?v=4DjsQXYyHNs)
+
 ## Abstract  
 This talk offers an accessible yet comprehensive exploration of ChatGPT and modern language models. It walks attendees through the evolution from traditional NLP techniques to generative pre-trained transformers (GPT), with a focus on the transformer architecture that powers ChatGPT. Combining humor, technical depth, and live demos, the session illustrates how developers can integrate ChatGPT into their apps, understand the technology’s capabilities and limitations, and consider the ethical and safety concerns surrounding large language models (LLMs).  
 

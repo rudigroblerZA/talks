@@ -1,6 +1,8 @@
-# Self-Driving Cars Using GTA and Deep Learning
-**Version:** 1.0.6  
+# DevConf 2022
+## Self-Driving Cars Using GTA and Deep Learning
 **Speaker:** @rudigrobler  
+
+[![DevConf 2022](https://img.youtube.com/vi/k3JBxWd3PPo/0.jpg)](https://www.youtube.com/watch?v=k3JBxWd3PPo)
 
 ## Abstract
 This talk explores an experimental journey into building self-driving car models using *Grand Theft Auto V* (GTA V) as a simulated environment combined with deep learning techniques. The presentation outlines how realistic driving data can be collected from a modifiable game world, processed through machine learning models (including transfer learning and regression), and used to train autonomous driving behaviors. It highlights system architecture, challenges, and lessons learned while showcasing how gaming, AI, and engineering intersect to make self-driving experiments accessible and fun, even for hobbyists.

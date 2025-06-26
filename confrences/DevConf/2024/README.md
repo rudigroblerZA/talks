@@ -2,6 +2,8 @@
 ## From Overheating to Overachieving — A Comedic Tale of Hacking My Car  
 **Speaker:** @rudigrobler  
 
+[![DevConf 2024](https://img.youtube.com/vi/uLc1FlYEgZ4/0.jpg)](https://www.youtube.com/watch?v=uLc1FlYEgZ4)
+
 ## Abstract
 This light-hearted and technical talk chronicles how a simple overheating issue in an old Renault Kwid (2017) spiraled into a humorous deep dive into car hacking. Frustrated by unsuccessful repairs and cryptic dashboards, the speaker explores both the easy (OBD) and hard (CAN bus) ways of diagnosing and interacting with the vehicle’s systems. Along the way, attendees are introduced to concepts like CAN messaging, OBD-II protocols, and Arduino-based hardware hacking — all with plenty of laughs, lessons learned, and inspiration to tinker.
 
