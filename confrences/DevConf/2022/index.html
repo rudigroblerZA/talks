@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DevConf 2022 - Self-Driving Cars Using GTA and Deep Learning</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container mt-5">
+    <header class="text-center mb-4">
+      <h1>DevConf 2022</h1>
+      <h2>Self-Driving Cars Using GTA and Deep Learning</h2>
+      <p class="text-muted">@rudigrobler v1.0.6</p>
+    </header>
+
+    <section>
+      <h3>Abstract</h3>
+      <p>
+        This talk explores an experimental journey into building self-driving car models using <em>Grand Theft Auto V</em> (GTA V) as a simulated environment combined with deep learning techniques. 
+        The presentation outlines how realistic driving data can be collected from a modifiable game world, processed through machine learning models (including transfer learning and regression), 
+        and used to train autonomous driving behaviors. It highlights system architecture, challenges, and lessons learned while showcasing how gaming, AI, and engineering intersect to make 
+        self-driving experiments accessible and fun, even for hobbyists.
+      </p>
+    </section>
+
+    <section>
+      <h3>Summary</h3>
+      <h4>Overview</h4>
+      <p>
+        This presentation explores how deep learning techniques can be applied to create self-driving car models, using <em>Grand Theft Auto V</em> (GTA V) as a simulation environment for data collection and training. 
+        The talk blends concepts from autonomous driving, computer vision, and machine learning, demonstrating an experimental setup and architecture for building and testing such systems.
+      </p>
+      
+      <h4>Key Topics Covered</h4>
+      <ul>
+        <li><strong>What is self-driving?</strong>
+          <ul>
+            <li>Vehicle capable of sensing its environment and moving safely with little or no human input.</li>
+            <li>References: Tesla Autopilot, comma.ai, OpenPilot, Waymo.</li>
+            <li>Highlights complexity and different approaches.</li>
+          </ul>
+        </li>
+        <li><strong>Components and tasks of self-driving systems</strong>
+          <ul>
+            <li>Tasks: Adaptive cruise control, steering, lane detection, image segmentation/classification, object detection, road following.</li>
+            <li>Sensors: Cameras, IMU, gyroscopes, accelerometers, speedometer, GPS, maps.</li>
+          </ul>
+        </li>
+        <li><strong>Why use GTA V?</strong>
+          <ul>
+            <li>Modifiable, realistic, open-world environment.</li>
+            <li>Enables varied driving conditions and detailed car state recording.</li>
+          </ul>
+        </li>
+        <li><strong>Data collection process</strong>
+          <ul>
+            <li>Trips ~10 min at 7 fps, varied conditions, multiple drivers and cars.</li>
+            <li>Each frame linked to car state (steering, throttle, brake).</li>
+          </ul>
+        </li>
+        <li><strong>Deep learning approach</strong>
+          <ul>
+            <li>Transfer learning, regression, ResNet, AlexNet, GPU-accelerated frameworks.</li>
+          </ul>
+        </li>
+        <li><strong>System architecture</strong>
+          <ul>
+            <li>Distributed using ZeroMQ; runs on Windows + Ubuntu with Jetson Nano.</li>
+          </ul>
+        </li>
+        <li><strong>Development disclaimers</strong>
+          <ul>
+            <li>Speaker: not a Python developer, AI expert, or gamer; code available (Jupyter notebooks).</li>
+          </ul>
+        </li>
+        <li><strong>Key message</strong>
+          <ul>
+            <li>Machines can learn human tasks through data and pattern recognition; principles apply to areas beyond driving.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h4>Takeaways</h4>
+      <ul>
+        <li>GTA V is a flexible, low-cost platform for self-driving experiments.</li>
+        <li>Combining game data and deep learning offers a safe, fun way to explore AI.</li>
+        <li>The project shows that advanced AI work can be accessible to enthusiasts.</li>
+      </ul>
+    </section>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
