@@ -44,4 +44,4 @@ This session offers comprehensive best practices for developing robust, maintain
 
 ---
 
-[Slides](WUX407_Best_Practices_Grobler.pdf)
+[Slides](slides.pdf)

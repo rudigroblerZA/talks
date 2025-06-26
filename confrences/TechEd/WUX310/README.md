@@ -50,4 +50,4 @@ This presentation provides an in-depth overview of security considerations and b
 
 ---
 
-[Slides](WUX310_Securing_Silverlight_Grobler.pdf)
+[Slides](slides.pdf)

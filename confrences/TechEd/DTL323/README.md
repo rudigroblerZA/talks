@@ -42,4 +42,4 @@ This presentation explores the application of the Model-View-ViewModel (MVVM) de
 
 ---
 
-[Slides](DTL323_MVVM_VS2010_Grobler.pdf)
+[Slides](slides.pdf)
