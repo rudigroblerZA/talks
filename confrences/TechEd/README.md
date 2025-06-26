@@ -2,7 +2,7 @@
 
 **Tech-ed** Africa was one of the largest technology conferences on the continent, hosted annually by Microsoft. It brought together thousands of IT professionals to explore the latest tools, platforms, and innovations.
 
-### Using the MVVM Design Pattern with the Microsoft Visual Studio 2010 XAML Designer
+### [DTL323](DTL323) - Using the MVVM Design Pattern with the Microsoft Visual Studio 2010 XAML Designer
 - 18 Oct 2010 - Durban
 
 ![DTL323](DTL323.PNG)
@@ -12,14 +12,14 @@ This presentation explores the application of the Model-View-ViewModel (MVVM) de
 ### Powering Rich Internet Applications: Windows Server AppFabric, Web Services, and Microsoft Silverlight
 - 19 Oct 2010 - Durban
 
-### Securing Microsoft Silverlight
+### [WUX310](WUX310) - Securing Microsoft Silverlight
 - 19 Oct 2010 - Durban
 
 ![WUX310](WUX310.PNG)
 
 This presentation provides an in-depth overview of security considerations and best practices for developing and deploying Microsoft Silverlight applications. It covers the various vectors through which Silverlight applications can be compromised, including client-side vulnerabilities, network security, and intellectual property protection. The session discusses strategies for securing the client, protecting assets such as code and XAML, and safeguarding data stored locally or transmitted over the network. Emphasis is placed on obfuscation techniques, authentication mechanisms, cross-domain access policies, and secure service communication. Additionally, it explores different approaches to protecting Silverlight application files (XAPs) via authentication, encryption, and domain policies, as well as securing WCF Data Services and network requests using browser and client HTTP stacks. Practical demos and best practices aim to help developers enhance the security posture of their Silverlight applications.
 
-### Best Practices: Building a Real-World Microsoft Silverlight Line-Of-Business Application
+### [WUX407](WUX407) Best Practices: Building a Real-World Microsoft Silverlight Line-Of-Business Application
 - 20 Oct 2010 - Durban
 
 ![WUX407](WUX407.PNG)
